@@ -7,7 +7,8 @@ Investigate suspicious authentication activity involving an administrative accou
 ## Tools
 
 - VS Code
-- Linux authentication logs
+- Authentication logs
+- Powershell
 - Basic log analysis
 
 ## Findings

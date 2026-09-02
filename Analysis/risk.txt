@@ -1,0 +1,8 @@
+Risk Assessment
+
+Risk: Medium
+
+Reason:
+The admin account had multiple failed login attempts followed by a successful login from the same IP address.
+
+The activity is suspicious and requires further investigation.

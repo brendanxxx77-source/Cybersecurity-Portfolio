@@ -1,0 +1,18 @@
+Suspicious Login Investigation
+
+Summary:
+Multiple failed login attempts were followed by a successful login to the admin account.
+
+Findings:
+- 3 failed login attempts came from 203.0.113.25.
+- A successful login followed at 09:45:22.
+- The activity is suspicious.
+
+Risk:
+Medium
+
+Recommended Action:
+Investigate the IP address and verify whether the successful admin login was authorised.
+
+Conclusion:
+The activity should be investigated further because an administrative account was successfully accessed after multiple failed login attempts.

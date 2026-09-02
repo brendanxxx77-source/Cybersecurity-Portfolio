@@ -1,0 +1,7 @@
+Recommended Next Actions
+
+1. Verify with the administrator whether the login was authorised.
+2. Investigate the source IP address.
+3. Review other login activity for the admin account.
+4. Check what actions were performed after the successful login.
+5. Escalate the incident if the login is confirmed to be unauthorised.

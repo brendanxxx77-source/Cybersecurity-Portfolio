@@ -1,0 +1,8 @@
+Sep 02 09:15:21 server sshd[1452]: Failed password for admin from 192.168.1.50
+Sep 02 09:15:25 server sshd[1453]: Failed password for admin from 192.168.1.50
+Sep 02 09:15:29 server sshd[1454]: Failed password for admin from 192.168.1.50
+Sep 02 09:15:35 server sshd[1455]: Accepted password for admin from 192.168.1.50
+Sep 02 09:45:11 server sshd[1521]: Failed password for admin from 203.0.113.25
+Sep 02 09:45:14 server sshd[1522]: Failed password for admin from 203.0.113.25
+Sep 02 09:45:18 server sshd[1523]: Failed password for admin from 203.0.113.25
+Sep 02 09:45:22 server sshd[1524]: Accepted password for admin from 203.0.113.25

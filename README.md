@@ -44,3 +44,10 @@ Select-String "Accepted password" "Evidence\login.log"
 Select-String "203.0.113.25" "Evidence\login.log"
 
 These commands were used to identify failed logins, successful logins, and activity associated with the suspicious IP address.
+---
+
+## Certifications
+
+### Google Cybersecurity Professional Certificate
+
+[View my verified Credly badge](https://www.credly.com/badges/e99c17f7-0294-41fb-90d2-77ed9e3e6bab)
